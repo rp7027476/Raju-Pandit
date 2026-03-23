@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Task Table</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        table {
+            border-collapse: collapse;
+            width: 1100px;
+        }
+        td, th {
+            border: 1px solid #cfcfcf;
+            padding: 6px;
+            vertical-align: top;
+            font-size: 14px;
+        }
+        th {
+            background-color: #f5f5f5;
+            text-align: left;
+        }
+        a {
+            color: blue;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<table>
+    <!-- Top empty header row -->
+    <tr>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th>PPT Link</th>
+        <th colspan="2">positive</th>
+        <th colspan="2">critical</th>
+    </tr>
+
+    <!-- Row 1 -->
+    <tr>
+        <td>rahmatillo</td>
+        <td>1</td>
+        <td>Batuhan K</td>
+        <td><a href="#">https://shareyougo.com/zvdsjs3u</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+
+    <!-- Row 2 -->
+    <tr>
+        <td>goktug kepez</td>
+        <td>2</td>
+        <td>Alisher S</td>
+        <td><a href="#">https://we.tl/t-4ACIA5tns0</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+
+    <!-- Row 3 -->
+    <tr>
+        <td>ali talha ozturk</td>
+        <td>3</td>
+        <td>Javanshir</td>
+        <td><a href="#">https://send.tresorit.com</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+
+    <!-- Row 4 -->
+    <tr>
+        <td>eser uzuntas</td>
+        <td>4</td>
+        <td>eser uzuntas</td>
+        <td><a href="#">https://aquasense-wellbeing.lovable.app/</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+
+    <!-- Row 5 -->
+    <tr>
+        <td>Javanshir</td>
+        <td>5</td>
+        <td>ali talha ozturk</td>
+        <td><a href="#">https://shareyougo.com/fujsl4zy</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+
+    <!-- Row 6 -->
+    <tr>
+        <td>Alisher S</td>
+        <td>6</td>
+        <td>goktug kepez</td>
+        <td><a href="#">https://shareyougo.com/lbdayht1</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+
+    <!-- Row 7 -->
+    <tr>
+        <td>Batuhan K</td>
+        <td>7</td>
+        <td>rahmatillo</td>
+        <td><a href="#">https://shareyougo.com/nxdkygl9</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+
+    <!-- Empty rows (like screenshot) -->
+    <tr>
+        <td>&nbsp;</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+    </tr>
+
+</table>
+
+</body>
+</html>
